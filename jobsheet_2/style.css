@@ -1,0 +1,17 @@
+#nama{
+    color: rgb(134, 133, 133);
+    font-family:'Segoe UI',sans-serif;
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(195, 201, 199);
+}
+.bio{
+    color: rgb(4, 11, 51);
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 1.6;
+    text-align: justify;
+    font-weight: 300;
+    background-color: yellow;
+
+}
